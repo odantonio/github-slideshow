@@ -8,6 +8,7 @@ title:"Welcome to our second slide!
 
 ---
 
-Hello there!
+Hello there! Welcomce to my fucking page.
+I wiil rule your world. 
 
 Use left arrow to go back!
